@@ -1,0 +1,2 @@
+Hi, this is my first time trying to do something with Git
+

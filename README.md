@@ -1,2 +1,2 @@
-# demo
+# Learning C
 # demo
